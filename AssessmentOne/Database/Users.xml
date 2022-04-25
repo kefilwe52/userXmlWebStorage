@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <id>c0882b4b-52db-4dc0-a1b7-1f117a25736f</id>
+    <name>Sipho</name>
+    <surname>Mkhwanazi</surname>
+    <cellNumber>0824747431</cellNumber>
+  </user>
+  <user>
+    <id>e22f9052-bc50-4068-923c-c7f98a77227a</id>
+    <name>kefilwe</name>
+    <surname>Mkhwanazi</surname>
+    <cellNumber>0824747431</cellNumber>
+  </user>
+  <user>
+    <id>3b76b69e-69d9-4b00-8c5e-56eb84c6c73d</id>
+    <name>Thabang</name>
+    <surname>Thapelo</surname>
+    <cellNumber>0824747431</cellNumber>
+  </user>
+  <user>
+    <id>4963bb3c-dc5b-49b6-83f7-1b465a5f4140</id>
+    <name>Botlhe</name>
+    <surname>Wittess</surname>
+    <cellNumber>0824747431</cellNumber>
+  </user>
+</users>
